@@ -1,0 +1,13 @@
+[
+  {
+    "name": "this",
+    "category": "test",
+    "cost": 20,
+    "date": 1476381529449,
+    "count": 1,
+    "props": [
+      {
+        "id": 1,
+        "name": "test"
+      }
+    ],
