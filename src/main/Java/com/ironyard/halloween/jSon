@@ -8,6 +8,18 @@
     "props": [
       {
         "id": 1,
-        "name": "test"
+        "name": "props"
       }
     ],
+    "clothing": [
+      {
+        "id": 1,
+        "name": "test",
+        "color": "test",
+        "size": "L",
+        "category": "test"
+      }
+    ],
+    "id": 1
+  }
+]
